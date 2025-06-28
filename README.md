@@ -139,8 +139,6 @@ Author(s):
 
 Linus Suter – https://codewelt.com
 
-Lionel Pailloncy (credited in project metadata)
-
 License: GNU General Public License (GPL)
 This font is licensed under the GNU GPL, which allows for free use, modification, and distribution, provided the license terms are respected. For projects embedding this font in software, ensure compliance with GPL font linking exceptions if applicable.
 
