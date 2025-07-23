@@ -42,7 +42,6 @@ This fork improves upon the original by providing **case-by-case watermark proce
 1. **Clone or download** this enhanced fork into your `extensions/` folder:
 
    ```bash
-   cd stable-diffusion-webui-forge/extensions/
    git clone https://github.com/praneetsah/stable-diffsuion-A1111-forge-watermark.git
    ```
 
