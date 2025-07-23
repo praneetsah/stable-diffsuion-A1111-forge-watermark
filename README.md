@@ -319,7 +319,8 @@ This font is licensed under the GNU GPL, which allows for free use, modification
 
 This is an open-source fork with enhancements for better automation and per-request control. Contributions welcome!
 
-**Original Extension**: Made for [Stable Diffusion WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)  
+Made for and tested with [Stable Diffusion WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)  
+**Original Extension**: Made for [sd-webui-watermark](https://github.com/RegulusAlpha/sd-webui-watermark)  
 **Enhanced Fork**: Improved with API support and per-generation control
 
 ---
