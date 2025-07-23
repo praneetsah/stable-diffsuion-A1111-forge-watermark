@@ -43,7 +43,7 @@ This fork improves upon the original by providing **case-by-case watermark proce
 
    ```bash
    cd stable-diffusion-webui-forge/extensions/
-   git clone https://github.com/your-username/sd-webui-watermark.git
+   git clone https://github.com/praneetsah/stable-diffsuion-A1111-forge-watermark.git
    ```
 
 2. Restart WebUI Forge.
